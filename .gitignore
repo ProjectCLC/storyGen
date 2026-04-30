@@ -1,0 +1,8 @@
+node_modules/
+client/node_modules/
+server/node_modules/
+output/master_life_document.md
+output/master_life_document.pdf
+.env
+.DS_Store
+dist/
