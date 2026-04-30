@@ -1,0 +1,26 @@
+/* LifeLog Styles - v1 */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Lora:ital,wght@0,400;0,500;1,400&display=swap');
+
+:root {
+  --bg-primary: #1a1209;
+  --bg-secondary: #231a0e;
+  --bg-card: #2a1f12;
+  --accent-gold: #c9933a;
+  --accent-gold-light: #e8b45a;
+  --text-primary: #f0e6d3;
+  --text-secondary: #b89a75;
+  --text-muted: #7a6248;
+  --border-color: #3d2e1a;
+  --danger: #c0392b;
+  --success: #27ae60;
+  --mood-joyful: #f1c40f;
+  --mood-proud: #2ecc71;
+  --mood-painful: #e74c3c;
+  --mood-funny: #f39c12;
+  --mood-nostalgic: #9b59b6;
+  --mood-bittersweet: #e67e22;
+  --mood-neutral: #7f8c8d;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { background: var(--bg-primary); color: var(--text-primary); font-family: 'Lora', serif; min-height: 100vh; }
